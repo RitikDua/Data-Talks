@@ -2,7 +2,8 @@
 It contains few projects on data analysis and visualization.
 
 ## Description
-List of all the projects with live version are as follow .
+List of all the projects with kaggle version are as follow .
+
 
 #### 1. Campus Recruitment
 (https://www.kaggle.com/ritikdua/data-analysis-and-visualization)
